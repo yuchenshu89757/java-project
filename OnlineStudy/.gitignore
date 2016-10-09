@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+
+*.war
+*.ear
+*.properties
+
+.classpath
+.mymetadata
+.project
+.settings/
+WebRoot/META-INF/
+WebRoot/WEB-INF/classes/
+WebRoot/cachedir/
+WebRoot/WEB-INF/web.xml

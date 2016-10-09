@@ -1,0 +1,35 @@
+#tip{
+            position: absolute;
+            right: 0px;
+            bottom: 0px;
+            height: 0px;
+            width: 180px;
+            border: 1px solid #CCCCCC;
+            background-color: #ccCCCC;
+            padding: 1px;
+            overflow: hidden;
+            display: none;
+            font-size: 12px;
+            z-index: 10;
+}
+
+#tip p a{
+		margin-left:10px;
+		color:#000;
+}
+
+#tip h2, #detail h2{
+            font-size: 14px;
+            height: 25px;
+            line-height: 25px;
+            background-color: #0066CC;
+            color: #FFFFFF;
+            padding: 0px 3px 0px 3px;
+            filter: Alpha(Opacity=100);
+}
+
+#tip h2 a, #detail h2 a{
+            float: right;
+            text-decoration: none;
+            color: #FFFFFF;
+}

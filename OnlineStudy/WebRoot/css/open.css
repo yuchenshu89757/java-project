@@ -1,0 +1,24 @@
+.bg{
+	position:absolute;
+	z-index:999;filter:
+	alpha(opacity=50);
+	background:#666;
+	opacity: 0.5;
+	-moz-opacity: 0.5;
+	left:0;
+	top:0;
+	height:99%;
+	width:100%;
+}
+.beian_winBG {
+	MARGIN-TOP: -100px; 
+	LEFT: 50%; 
+	MARGIN-LEFT: -190px; 
+	WIDTH: 376px; 
+	POSITION: absolute; 
+	TOP: 50%; 
+	HEIGHT:200px;
+	border:#666666 1px solid;
+	z-index: 1000;
+}
+#mainText{width:100%;background:#f1f1f1;height:30px;light-height:30px;border-bottom:#666666 1px solid;text-align:right;}
